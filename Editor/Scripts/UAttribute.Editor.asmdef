@@ -2,7 +2,7 @@
     "name": "UAttribute.Editor",
     "rootNamespace": "UAttribute.Editor",
     "references": [
-        "GUID:c6b1b796de7caf245ae4fab73b16243c"
+        "GUID:5c324c1611f45ca47a2ea82fe0e31a2d"
     ],
     "includePlatforms": [
         "Editor"
