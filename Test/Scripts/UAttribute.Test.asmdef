@@ -1,0 +1,16 @@
+{
+    "name": "UAttribute.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c6b1b796de7caf245ae4fab73b16243c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
